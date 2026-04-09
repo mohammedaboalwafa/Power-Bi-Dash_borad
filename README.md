@@ -28,4 +28,4 @@ This dashboard helps stakeholders to:
 Identify growth opportunities
 Detect performance gaps
 Optimize decision-making using real data
-Understand patterns and trends بسرعة ووضوح
+Understand patterns and trends
